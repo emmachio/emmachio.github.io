@@ -9,7 +9,6 @@ website:
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
 
     # your sub-pages
     left:
@@ -25,7 +24,7 @@ website:
       - icon: envelope
         aria-label: email
         href: "mailto:emmany2409@gmail.com"
-      - icon: GitHub
+      - icon: github
         href: https://github.com/emmachio/
 
 

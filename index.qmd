@@ -9,7 +9,7 @@ about:
       - icon: envelope
         aria-label: email
         href: "mailto:emmany2409@gmail.com"
-      - icon: GitHub
+      - icon: github
         href: https://github.com/emmachio/
 ---
 
