@@ -1,0 +1,35 @@
+---
+title: "Photography"
+---
+
+I have put together some of my relics from my travels. As you can see, I love water and will always take a picture of it. As a constant believer of trying new things, I have also attached a picture of my skydiving - something I just think is super cool to mention!
+
+::: {layout-ncol=2}
+
+![](IMG_0170.JPG)
+
+![](IMG_4874.JPG)
+
+![](IMG_7362.JPG)
+
+![](IMG_7602.JPG)
+
+![](IMG_7726.JPG)
+
+![](IMG_8299.JPG)
+
+![](IMG_8809.JPG)
+
+![](skydiving.jpg)
+:::
+
+And I could never forget my giant puppy
+
+![](IMG_2625.JPG)
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

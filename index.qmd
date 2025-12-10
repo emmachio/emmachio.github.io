@@ -1,0 +1,28 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/profile_pic.jpg"
+  links:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/emmachio/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:emmany2409@gmail.com"
+      - icon: GitHub
+        href: https://github.com/emmachio/
+---
+
+::: {#about-block}
+:::
+
+# Nice to meet you!
+
+I am currently a 4th year at Case Western Reserve University from New York City pursuing a degree in Computer Science, along with a Master's in Biostatistics through an integrated program. I am particularly interested in the combination of biology and data analysis, specifically utilizing computational algorithms to gain further knowledge in the molecular mechanisms underlying disease progression and transmission.
+
+This past summer, I interned at Amazon Web Services (AWS) on the Invoice Compliance team. My project focused on developing a data-visualization website that enabled the team to quickly search for individual invoices and identify issues without having to manually sift through large amounts of data, as well as give statistic summaries so that the stakeholders could make quick and informed decisions.
+
+Outside of my academic endeavors, I love to dance, serving as the Treasurer of my collegiate dance team, working to manage our budget and oversee the operations of all the events, successfully raising money to support our team's travel to out of state dance competitions. I also love to travel with my roommate. Together, we have traveled to so many new cities, learning more about the culture, exploring our palettes, and trying new things.
+
+I am eager to further advance both my academic and professional journey, gaining both knowledge and experience along the way. Please feel free to contact me at [contact me](mailto:emmany2409@gmail.com).
+
