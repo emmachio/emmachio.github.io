@@ -26,10 +26,3 @@ I have put together some of my relics from my travels. As you can see, I love wa
 And I could never forget my giant puppy
 
 ![](IMG_2625.JPG)
-
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
