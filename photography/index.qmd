@@ -2,25 +2,28 @@
 title: "Photography"
 ---
 
-I have put together some of my relics from my travels. As you can see, I love water and will always take a picture of it. As a constant believer of trying new things, I have also attached a picture of my skydiving - something I just think is super cool to mention!
+I have put together some of my relics from my travels. As you can see, I love anything related to the water, both swimming in it and just taking pictures of it. When I travel, I constantly believe in trying new things - as proof of that I have attached a picture of me skydiving (something my roommate had to convince me to do with her, but if you never try how do you know you wont like it!).
 
-::: {layout-ncol=2}
+::: {layout-ncol="2"}
+![](IMG_0170.JPG)**8/14/2025 - Hawaii**
 
-![](IMG_0170.JPG)
+![](IMG_4874.JPG)**3/13/2025 - Cancun**
 
-![](IMG_4874.JPG)
+![](IMG_7362.JPG)**5/16/2024 - Universal**
 
-![](IMG_7362.JPG)
+![](IMG_7602.JPG)**5/14/2025 - Slovenia**
 
-![](IMG_7602.JPG)
+![](IMG_7726.JPG)**5/17/2025 - Dubrovnik**
 
-![](IMG_7726.JPG)
+![](IMG_8299.JPG)**6/14/2025 - Seattle**
 
-![](IMG_8299.JPG)
-
-![](IMG_8809.JPG)
+![](IMG_8809.JPG)**6/29/2025 - Olympic National Park**
 
 ![](skydiving.jpg)
+
+![](fuji.JPG)**12/20/2025 - Mount Fuji**
+
+![](venice.JPG)**3/14/2026 - Venice**
 :::
 
 And I could never forget my giant puppy
