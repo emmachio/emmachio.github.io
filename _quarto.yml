@@ -14,8 +14,8 @@ website:
     left:
       - text: "Photography"
         href: photography/index.qmd
-      - text: "Blog"
-        href: blog/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
       - text: "Blog"
         href: blog/index.qmd
 
